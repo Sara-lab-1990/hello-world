@@ -1,3 +1,2 @@
-# hello-world
-Just another repository
-Hello I am a psychologist rtying to understand what a repository is
+#Repository
+Hello I am a data analyst trying to understand what a repository is.
